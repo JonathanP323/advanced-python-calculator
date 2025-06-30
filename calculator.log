@@ -1,0 +1,124 @@
+2025-06-30 13:25:13,558 - REPL - INFO - User entered command: add
+2025-06-30 13:25:17,016 - REPL - INFO - Received inputs: a=5.0, b=3.0
+2025-06-30 13:25:17,017 - REPL - INFO - add(5.0, 3.0) = 8.0
+2025-06-30 13:26:44,453 - REPL - INFO - User entered command: add 5
+2025-06-30 13:26:44,453 - REPL - WARNING - Invalid command: add 5
+2025-06-30 13:26:48,762 - REPL - INFO - User entered command: add
+2025-06-30 13:26:51,005 - REPL - INFO - Received inputs: a=5.0, b=3.0
+2025-06-30 13:26:51,006 - REPL - INFO - add(5.0, 3.0) = 8.0
+2025-06-30 13:26:56,315 - REPL - INFO - User entered command: multiply
+2025-06-30 13:26:59,230 - REPL - INFO - Received inputs: a=2.0, b=4.0
+2025-06-30 13:26:59,230 - REPL - INFO - multiply(2.0, 4.0) = 8.0
+2025-06-30 13:27:01,573 - REPL - INFO - User entered command: exit
+2025-06-30 13:27:01,573 - REPL - INFO - Exiting REPL
+2025-06-30 13:41:36,992 - REPL - INFO - User entered command: add
+2025-06-30 13:41:40,982 - REPL - INFO - Received inputs: a=5.0, b=2.0
+2025-06-30 13:41:40,982 - REPL - INFO - add(5.0, 2.0) = 7.0
+2025-06-30 13:41:44,612 - REPL - INFO - User entered command: multiply
+2025-06-30 13:41:47,025 - REPL - INFO - Received inputs: a=3.0, b=4.0
+2025-06-30 13:41:47,025 - REPL - INFO - multiply(3.0, 4.0) = 12.0
+2025-06-30 13:41:50,397 - REPL - INFO - User entered command: exit
+2025-06-30 13:41:50,398 - REPL - INFO - Exiting REPL
+2025-06-30 13:46:03,571 — REPL — INFO — User entered command: add
+2025-06-30 13:46:07,559 — REPL — INFO — Received inputs: a=7.0, b=2.0
+2025-06-30 13:46:07,560 — REPL — INFO — add(7.0, 2.0) = 9.0
+2025-06-30 13:46:11,780 — REPL — INFO — User entered command: multiply
+2025-06-30 13:46:15,325 — REPL — INFO — Received inputs: a=8.0, b=3.0
+2025-06-30 13:46:15,325 — REPL — INFO — multiply(8.0, 3.0) = 24.0
+2025-06-30 13:46:19,103 — REPL — INFO — User entered command: exit
+2025-06-30 13:46:19,103 — REPL — INFO — Exiting REPL
+2025-06-30 13:53:11,338 — REPL — INFO — User entered command: add
+2025-06-30 13:53:15,907 — REPL — INFO — Received inputs: a=8.0, b=3.0
+2025-06-30 13:53:15,908 — REPL — INFO — add(8.0, 3.0) = 11.0
+2025-06-30 13:53:21,649 — REPL — INFO — User entered command: divide
+2025-06-30 13:53:24,220 — REPL — INFO — Received inputs: a=9.0, b=3.0
+2025-06-30 13:53:24,221 — REPL — INFO — divide(9.0, 3.0) = 3.0
+2025-06-30 13:53:29,629 — REPL — INFO — User entered command: exit
+2025-06-30 13:53:29,629 — REPL — INFO — Exiting REPL
+2025-06-30 14:00:52,396 - REPL - INFO - User entered command: add
+2025-06-30 14:00:55,563 - REPL - INFO - Received inputs: a=6.0, b=4.0
+2025-06-30 14:01:02,086 - REPL - INFO - User entered command: multiply
+2025-06-30 14:01:05,691 - REPL - INFO - Received inputs: a=6.0, b=5.0
+2025-06-30 14:01:08,393 - REPL - INFO - User entered command: divide
+2025-06-30 14:01:10,685 - REPL - INFO - Received inputs: a=30.0, b=6.0
+2025-06-30 14:01:15,574 - REPL - INFO - User entered command: history
+2025-06-30 14:01:22,997 - REPL - INFO - User entered command: exit
+2025-06-30 14:01:22,997 - REPL - INFO - Exiting REPL
+2025-06-30 14:19:13,850 - REPL - INFO - User entered command: add
+2025-06-30 14:19:16,601 - REPL - INFO - Received inputs: a=8.0, b=3.0
+2025-06-30 14:19:16,601 - REPL - ERROR - Error: module 'commands.add' has no attribute 'run'
+2025-06-30 14:20:56,820 - REPL - INFO - User entered command: exit
+2025-06-30 14:20:56,821 - REPL - INFO - Exiting REPL
+2025-06-30 14:21:26,208 - REPL - INFO - User entered command: add
+2025-06-30 14:21:30,763 - REPL - INFO - Received inputs: a=5.0, b=6.0
+2025-06-30 14:21:30,763 - REPL - INFO - add(5.0, 6.0) = 11.0
+2025-06-30 14:21:34,788 - REPL - INFO - User entered command: subtract
+2025-06-30 14:21:37,632 - REPL - INFO - Received inputs: a=10.0, b=4.0
+2025-06-30 14:21:37,632 - REPL - ERROR - Error: module 'commands.subtract' has no attribute 'run'
+2025-06-30 14:22:22,426 - REPL - INFO - User entered command: exit
+2025-06-30 14:22:22,426 - REPL - INFO - Exiting REPL
+2025-06-30 14:23:00,484 - REPL - INFO - User entered command: add
+2025-06-30 14:23:04,565 - REPL - INFO - Received inputs: a=6.0, b=5.0
+2025-06-30 14:23:04,565 - REPL - INFO - add(6.0, 5.0) = 11.0
+2025-06-30 14:23:22,267 - REPL - INFO - User entered command: subtract
+2025-06-30 14:23:28,122 - REPL - INFO - Received inputs: a=10.0, b=4.0
+2025-06-30 14:23:28,122 - REPL - INFO - subtract(10.0, 4.0) = 6.0
+2025-06-30 14:23:31,384 - REPL - INFO - User entered command: multiply
+2025-06-30 14:23:35,017 - REPL - INFO - Received inputs: a=6.0, b=6.0
+2025-06-30 14:23:35,017 - REPL - ERROR - Error: module 'commands.multiply' has no attribute 'run'
+2025-06-30 14:24:12,733 - REPL - INFO - User entered command: exit
+2025-06-30 14:24:12,734 - REPL - INFO - Exiting REPL
+2025-06-30 14:24:52,431 - REPL - INFO - User entered command: add
+2025-06-30 14:24:54,087 - REPL - INFO - Received inputs: a=5.0, b=6.0
+2025-06-30 14:24:54,087 - REPL - INFO - add(5.0, 6.0) = 11.0
+2025-06-30 14:24:57,464 - REPL - INFO - User entered command: subtract
+2025-06-30 14:24:59,209 - REPL - INFO - Received inputs: a=10.0, b=4.0
+2025-06-30 14:24:59,209 - REPL - INFO - subtract(10.0, 4.0) = 6.0
+2025-06-30 14:25:01,895 - REPL - INFO - User entered command: multiply
+2025-06-30 14:25:03,609 - REPL - INFO - Received inputs: a=6.0, b=6.0
+2025-06-30 14:25:03,609 - REPL - INFO - multiply(6.0, 6.0) = 36.0
+2025-06-30 14:25:06,829 - REPL - INFO - User entered command: divide
+2025-06-30 14:25:10,867 - REPL - INFO - Received inputs: a=50.0, b=10.0
+2025-06-30 14:25:10,867 - REPL - ERROR - Error: module 'commands.divide' has no attribute 'run'
+2025-06-30 14:25:50,767 - REPL - INFO - User entered command: exit
+2025-06-30 14:25:50,768 - REPL - INFO - Exiting REPL
+2025-06-30 14:26:40,291 - REPL - INFO - User entered command: add
+2025-06-30 14:26:44,652 - REPL - INFO - Received inputs: a=6.0, b=5.0
+2025-06-30 14:26:44,652 - REPL - INFO - add(6.0, 5.0) = 11.0
+2025-06-30 14:26:49,332 - REPL - INFO - User entered command: subtract
+2025-06-30 14:26:51,939 - REPL - INFO - Received inputs: a=10.0, b=4.0
+2025-06-30 14:26:51,940 - REPL - INFO - subtract(10.0, 4.0) = 6.0
+2025-06-30 14:26:54,337 - REPL - INFO - User entered command: multiply
+2025-06-30 14:26:55,618 - REPL - INFO - Received inputs: a=6.0, b=6.0
+2025-06-30 14:26:55,619 - REPL - INFO - multiply(6.0, 6.0) = 36.0
+2025-06-30 14:26:57,285 - REPL - INFO - User entered command: divide
+2025-06-30 14:27:00,165 - REPL - INFO - Received inputs: a=50.0, b=10.0
+2025-06-30 14:27:00,165 - REPL - INFO - divide(50.0, 10.0) = 5.0
+2025-06-30 14:27:30,443 - REPL - INFO - User entered command: history
+2025-06-30 14:29:14,857 - REPL - INFO - User entered command: exit
+2025-06-30 14:29:14,857 - REPL - INFO - Exiting REPL
+2025-06-30 14:29:50,269 - REPL - INFO - User entered command: help
+2025-06-30 14:29:50,269 - REPL - WARNING - Invalid command: help
+2025-06-30 14:31:24,489 - REPL - INFO - User entered command: exit
+2025-06-30 14:31:24,489 - REPL - INFO - Exiting REPL
+2025-06-30 14:37:11,032 - REPL - INFO - User entered command: help
+2025-06-30 14:44:27,341 - REPL - INFO - User entered command: exit
+2025-06-30 14:44:27,342 - REPL - INFO - Exiting REPL
+2025-06-30 14:49:03,616 - REPL - INFO - Starting the calculator application.
+2025-06-30 14:49:40,491 - REPL - INFO - User entered command: add
+2025-06-30 14:49:44,459 - REPL - INFO - Received inputs: a=3.0, b=4.0
+2025-06-30 14:49:44,468 - REPL - INFO - add(3.0, 4.0) = 7.0
+2025-06-30 14:49:47,499 - REPL - INFO - User entered command: subtract
+2025-06-30 14:49:49,577 - REPL - INFO - Received inputs: a=6.0, b=5.0
+2025-06-30 14:49:49,582 - REPL - INFO - subtract(6.0, 5.0) = 1.0
+2025-06-30 14:49:53,367 - REPL - INFO - User entered command: multiply
+2025-06-30 14:49:54,943 - REPL - INFO - Received inputs: a=9.0, b=9.0
+2025-06-30 14:49:54,948 - REPL - INFO - multiply(9.0, 9.0) = 81.0
+2025-06-30 14:49:57,244 - REPL - INFO - User entered command: divide
+2025-06-30 14:49:59,175 - REPL - INFO - Received inputs: a=30.0, b=5.0
+2025-06-30 14:49:59,180 - REPL - INFO - divide(30.0, 5.0) = 6.0
+2025-06-30 14:50:01,458 - REPL - INFO - User entered command: history
+2025-06-30 14:50:11,363 - REPL - INFO - User entered command: help
+2025-06-30 14:50:26,036 - REPL - INFO - User entered command: exit
+2025-06-30 14:50:26,036 - REPL - INFO - Exiting REPL
+2025-06-30 14:50:26,036 - REPL - INFO - Calculator application terminated.
